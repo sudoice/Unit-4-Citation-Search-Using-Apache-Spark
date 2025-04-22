@@ -10,6 +10,6 @@ This model predicts whether a citation relationship exists between two academicÂ
 
 Some key use cases for the Citation Search Using Apache Spark project:
 
-1)Academic Research Assistance: Helps researchers find related papers by exploring citation networks, supporting literature reviews and discovering influential works.
-2)Citation Network Analysis: Enables data scientists or bibliometric analysts to analyze citation patterns, identify key publications, or visualize the evolution of research fields.
-3)Recommendation Systems for Publications: Can be adapted to suggest relevant papers to researchers or students based on citation similarity and topic relevance.
+1)Academic Research Assistance: Helps researchers find related papers by exploring citation networks, supporting literature reviews and discovering influential works.<br>
+2)Citation Network Analysis: Enables data scientists or bibliometric analysts to analyze citation patterns, identify key publications, or visualize the evolution of research fields.<br>
+3)Recommendation Systems for Publications: Can be adapted to suggest relevant papers to researchers or students based on citation similarity and topic relevance.<br>
